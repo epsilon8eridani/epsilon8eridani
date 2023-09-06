@@ -12,7 +12,6 @@
 <img src="https://skillicons.dev/icons?i=idea,vscode,selenium,postman,stackoverflow&perline=5" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epsilon8eridani&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-<img src="https://github-readme-stats.vercel.app/api?username=epsilon8eridani&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
 
 <!--
 **epsilon8eridani/epsilon8eridani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
