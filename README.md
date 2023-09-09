@@ -4,13 +4,24 @@
 
 <div align="left">
   <summary>
-  <h2><b>📚 My stack</b></h2>
+  <h2><b>💜 I use</b></h2>
 </summary>
-  <p><img src="https://skillicons.dev/icons?i=dotnet,cs,py,rust,go&amp;perline=5">
+  <p><img src="https://skillicons.dev/icons?i=dotnet,cs,py">
 <br>
-<img src="https://skillicons.dev/icons?i=docker,mongodb,postgres,react,redis&amp;perline=5">
+<img src="https://skillicons.dev/icons?i=docker,mongodb,redis">
 <br>
-<img src="https://skillicons.dev/icons?i=idea,vscode,selenium,postman,stackoverflow&amp;perline=5"></p>
+<img src="https://skillicons.dev/icons?i=idea,vscode,selenium"></p>
+</div>
+
+<div align="left">
+  <summary>
+  <h2><b>📚 I learn</b></h2>
+</summary>
+  <p><img src="https://skillicons.dev/icons?i=go,rust">
+<br>
+<img src="https://skillicons.dev/icons?i=postgres">
+<br>
+</p>
 </div>
 
 <div align="left">
