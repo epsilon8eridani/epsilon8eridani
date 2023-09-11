@@ -4,7 +4,7 @@
 
 <div align="left">
   <summary>
-  <h2><b>💜 I use</b></h2>
+  <h2><b>💜 I'm using</b></h2>
 </summary>
   <p><img src="https://skillicons.dev/icons?i=dotnet,cs,py">
 <br>
@@ -15,12 +15,13 @@
 
 <div align="left">
   <summary>
-  <h2><b>📚 I learn</b></h2>
+  <h2><b>📚 I'm learning</b></h2>
 </summary>
-  <p><img src="https://skillicons.dev/icons?i=go,rust">
+  <p><img src="https://skillicons.dev/icons?i=go,rust,js,ts,html,css&perline=3">
 <br>
-<img src="https://skillicons.dev/icons?i=postgres">
+<img src="https://skillicons.dev/icons?i=postgres,electron">
 <br>
+<img src="https://skillicons.dev/icons?i=neovim,linux"></p>
 </p>
 </div>
 
